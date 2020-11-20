@@ -1,4 +1,12 @@
 # Unit 20 React Homework: React Portfolio
+# https://aaronkplatt.github.io/aaronkplatt-portfolio.github.io/
+
+# COLORS 
+tea green: #D1F0B1
+Laurel Green: #B6CB9E
+Cambridge Blue: #92B4A7
+Taupe Gray: #8C8A93
+Old Lavender: #81667A
 
 Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
 
