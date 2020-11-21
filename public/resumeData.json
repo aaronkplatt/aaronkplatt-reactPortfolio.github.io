@@ -119,38 +119,44 @@
       {
         "title":"Local Coffe Shop Locator",
         "category":"Locate local coffee shops excluding companies like Starbucks",
-        "image":"localCoffee.JPG",
-        "url":"https://aaronkplatt.github.io/localCoffeeShops.github.io/"
+        "image":"localCoffee.jpeg",
+        "url":"https://aaronkplatt.github.io/localCoffeeShops.github.io/",
+        "repo":"https://github.com/aaronkplatt/localCoffeeShops.github.io"
       },
       {
         "title":"Cobra Arcade",
         "category":"An arcade with a login using javascript to make games.",
         "image":"cobraArcade.PNG",
-        "url":"https://cobra-arcade.herokuapp.com/"
+        "url":"https://cobra-arcade.herokuapp.com/",
+        "repo":"https://github.com/aaronkplatt/project-2.github.io"
       },
       {
         "title":"Eat-Da-Burger",
         "category":"Website I built with nodeJs to show functionality",
         "image":"eatBurger.PNG",
-        "url":"https://aqueous-lowlands-03560.herokuapp.com/"
+        "url":"https://aqueous-lowlands-03560.herokuapp.com/",
+        "repo":"https://github.com/aaronkplatt/aaronkplatt-eat-da-burger.github.io"
       },
       {
         "title":"Offline/Online Budget Tracker",
         "category":"Showing offline functionality using indexedDB",
         "image":"offlineOnline.PNG",
-        "url":"https://secret-mesa-51518.herokuapp.com/"
+        "url":"https://secret-mesa-51518.herokuapp.com/",
+        "repo":"https://github.com/aaronkplatt/aaronkplatt-OnlineOfflineBudgetTrackers.github.io"
       },
       {
         "title":"Employee Tracker",
         "category":"View Only. Made an employee tracker with MySQL.",
         "image":"backEnd.PNG",
-        "url":"https://drive.google.com/file/d/1ppeBnbjkY_epYlC1hB-2iYA-XoQIO2-Z/view"
+        "url":"https://drive.google.com/file/d/1ppeBnbjkY_epYlC1hB-2iYA-XoQIO2-Z/view",
+        "repo":"https://github.com/aaronkplatt/aaronkplatt-employee-tracker.github.io"
       },
       {
         "title":"Team Profile Generator",
         "category":"View Only. Made a Team Generator with inquirer.",
         "image":"inquirer.PNG",
-        "url":"https://drive.google.com/file/d/1PDKzvC07KJxXtkX728syMr-CCYOq4Ht0/view"
+        "url":"https://drive.google.com/file/d/1PDKzvC07KJxXtkX728syMr-CCYOq4Ht0/view",
+        "repo":"https://github.com/aaronkplatt/aaronkplatt-TeamProfileGenerator.github.io"
       }
     ]
   },

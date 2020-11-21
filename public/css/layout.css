@@ -431,6 +431,10 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
+.repo-btn {
+   width: 100%;
+}
+
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
