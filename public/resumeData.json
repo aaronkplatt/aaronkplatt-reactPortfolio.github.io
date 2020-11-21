@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name":"Aaron Platt",
+    "occupation":"Web Developer",
+    "description":"Currently a motivated web development student at UCSD. Experienced with project management, strong team skills, creative designing, and excellent written and verbal communication. I'm currently looking for a full-time job in San Diego, CA.",
+    "image":"profilepic.jpg",
+    "bio":" I'm currently a vidiogropher for professional skateboarding but am looking at getting into the front end and/or back end of web development. My favorite feeling is when a problem gets fixed which took effort and time to fix.",
+    "contactmessage":" If you have any questions and/or need to reach me feel free to contact me.",
+    "email": "aaron.k.platt@gmail.com",
+    "phone": "858-752-7917",
+    "address":{
+      "street":"3365 Rollsreach Dr.",
+      "city":"San Diego",
+      "state":"California",
+      "zip": "92111"
+    },
+    "resumedownload":"https://docs.google.com/document/d/1XI4Mx0VuZ5kXOJDzkRupMv1mMMvaPvBCItPh9JSMqDk/edit",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/aaron.platt.142/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/aaronkplatt",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/aaron.k.platt",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aaron-platt-90808116a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/aaron.k.platt",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/aaronkplatt",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I can take leadership when needed and work well with others. I love teaching people new technolegies.",
+    "education":[
+      {
+        "school":"University High School",
+        "degree":"Highschool Deploma",
+        "graduated":"June 2018",
+        "description":"I took two computer science classes in highschool adn since then I was hooked."
+      },
+      {
+        "school":"UCSD Bootcamp",
+        "degree":"Web Development",
+        "graduated":"December 2020",
+        "description":"Learned how to code back end and front end applications with several other usefull tools."
+      }
+    ],
+    "work":[
+      {
+        "company":"Woodward West",
+        "title":"Assistant Skateboard Director",
+        "years":"June 2018 - December 2019",
+        "description":"Took leadership for campers and workers directing them what to do. Orginized events for the campers and dealt with camper problems. Delt with parents that had questions about the camp and/or their child."
+      },
+      {
+        "company":"Pacific Event Productions",
+        "title":"Stage Hand",
+        "years":"October 2018 - April 2020",
+        "description":"A physical labor job to set up stages, lighting and catering for big events. Needed to take leadership at points depending the job. Worked in a wearhouse shipping things in trucks."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"60%"
+      },
+      {
+        "name":"Full Stack",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Local Coffe Shop Locator",
+        "category":"Locate local coffee shops excluding companies like Starbucks",
+        "image":"localCoffee.JPG",
+        "url":"https://aaronkplatt.github.io/localCoffeeShops.github.io/"
+      },
+      {
+        "title":"Cobra Arcade",
+        "category":"An arcade with a login using javascript to make games.",
+        "image":"cobraArcade.PNG",
+        "url":"https://cobra-arcade.herokuapp.com/"
+      },
+      {
+        "title":"Eat-Da-Burger",
+        "category":"Website I built with nodeJs to show functionality",
+        "image":"eatBurger.PNG",
+        "url":"https://aqueous-lowlands-03560.herokuapp.com/"
+      },
+      {
+        "title":"Offline/Online Budget Tracker",
+        "category":"Showing offline functionality using indexedDB",
+        "image":"offlineOnline.PNG",
+        "url":"https://secret-mesa-51518.herokuapp.com/"
+      },
+      {
+        "title":"Employee Tracker",
+        "category":"View Only. Made an employee tracker with MySQL.",
+        "image":"backEnd.PNG",
+        "url":"https://drive.google.com/file/d/1ppeBnbjkY_epYlC1hB-2iYA-XoQIO2-Z/view"
+      },
+      {
+        "title":"Team Profile Generator",
+        "category":"View Only. Made a Team Generator with inquirer.",
+        "image":"inquirer.PNG",
+        "url":"https://drive.google.com/file/d/1PDKzvC07KJxXtkX728syMr-CCYOq4Ht0/view"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Aaron wont give up until he figures whatever the problem is and wont stop he understands it. He is also good at taking leadership and is very orginized and prepared.",
+        "user":"Kenneth Platt"
+      },
+      {
+        "text":"Loves to teach others and is very patient when it comes to it. He is a hard worker and will be a very good employee when the time comes.",
+        "user":"Jordan Colebank"
+      }
+    ]
+  }
+}
