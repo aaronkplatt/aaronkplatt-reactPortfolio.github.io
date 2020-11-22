@@ -20,7 +20,7 @@ Or open the Deployed app with this URL: https://infinite-eyrie-26737.herokuapp.c
 
 # Summary
 
-I want to show employeers my work with a portfolio. There are several links to the applications and the repoitorys for those specific react applications. I want to give an employeer info about myself giving them the option to contact me as well.
+I want to show employeers my work with a portfolio. There are several links to the applications and the repoitorys for those specific react applications. I want to give an employeer info about myself giving them the option to contact me as well. I want to show an employer what im capable of with this application showing all of the different projects i've done. 
 
 # Usage
 
@@ -28,7 +28,7 @@ I want to show employeers my work with a portfolio. There are several links to t
 
 # History
 
-https://github.com/aaronkplatt/aaronkplatt-reactPortfolio.github.io
+https://github.com/aaronkplatt/reactPortfolio
 
 
 # Credits
