@@ -1,9 +1,4 @@
 # Unit 20 React Homework: React Portfolio
-# https://aaronkplatt.github.io/aaronkplatt-portfolio.github.io/
-
-Need to do:
-- deploy using github pages
-- deployed url
 
 ## Table of Contents
 
@@ -21,7 +16,7 @@ Need to do:
 * Using your command line, open the file.
 * Use command "npm install" in your terminal without quotations.
 * Use command "npm run start" in your terminal without the quotations.
-Or open the Deployed app with this URL:
+Or open the Deployed app with this URL: https://infinite-eyrie-26737.herokuapp.com/
 
 # Summary
 
